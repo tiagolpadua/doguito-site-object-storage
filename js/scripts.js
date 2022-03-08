@@ -1,4 +1,5 @@
-const BASE_PATH = 'http://132.226.118.209:3000/clientes'
+// const BASE_PATH = 'http://132.226.118.209:3000/clientes'
+const BASE_PATH = 'http://???:3000/clientes'
 
 let clienteService = {};
 
